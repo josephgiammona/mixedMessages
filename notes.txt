@@ -1,0 +1,37 @@
+#Mixed Messages - Horoscope Generator
+
+##Project Task
+1 Plan.
+2 Topic.
+3 Script and run your program locally.
+4 Set up grit tracking in my directory. Adding and committing changes.
+5 Store message components for game. 
+(Codecademy suggest 3 arrays within an object.)
+6 Create the message. return `It will look something like ${this}.` 
+(Codecademy suggest using a loop to iterate through a switch case )
+7 Put the program together.
+8 Expand if necessary.
+
+##Objective
+I have created a horocope generator. 
+This generator will take your sign and tell you if you will have good luck or bad luck.
+Good luck will put out a positive message.
+Bad luck will give out a warning. 
+Three messages should be displayed after the program runs. 
+
+**Example code, pre-log:**
+`Your sign is ${sign}.`
+`You will have ${luck}`
+`${quote}`
+
+###List of possible positive quotes
+'You will find money.'
+'The best is yet to bet.'
+'Your talents will be recognized and suitably rewarded.'
+'Your love life with be happy and harmonious.'
+
+##List of possible negative quotes
+'Trust no one'
+'Do not invest'
+'Stay away from people with baggage'
+'Do not open up to them'
