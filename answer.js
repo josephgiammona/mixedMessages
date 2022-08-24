@@ -22,10 +22,10 @@ switch(prop) {
         personalWisdom.push(`Your sign right now is a '${collectiveWisdom[prop][optionIdx]}'.`)
         break
     case 'fortuneOutput':
-        personalWisdom.push(`You are having: ${collectiveWisdom[prop][optionIdx]}`)
+        personalWisdom.push(`You are having: ${collectiveWisdom[prop][optionIdx]}.`)
         break
     case 'advice':
-        personalWisdom.push(`You should ${collectiveWisdom[prop][optionIdx]}`)
+        personalWisdom.push(`You should ${collectiveWisdom[prop][optionIdx]}.`)
         break
     default:
         personalWisdom.push(`There is not enough info.`)
